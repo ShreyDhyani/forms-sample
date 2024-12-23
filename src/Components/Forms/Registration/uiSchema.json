@@ -1,0 +1,34 @@
+{
+  "type": "Group",
+  "label": "Registration Form",
+  "elements": [
+    {
+      "type": "Control",
+      "scope": "#/properties/first_name"
+    },
+    {
+      "type": "Control",
+      "scope": "#/properties/last_name"
+    },
+    {
+      "type": "Control",
+      "scope": "#/properties/email"
+    },
+    {
+      "type": "Control",
+      "scope": "#/properties/username"
+    },
+    {
+      "type": "Control",
+      "scope": "#/properties/password"
+    },
+    {
+      "type": "Control",
+      "scope": "#/properties/password_confirmation"
+    },
+    {
+      "type": "Control",
+      "scope": "#/properties/confirm"
+    }
+  ]
+}
